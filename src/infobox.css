@@ -1,0 +1,16 @@
+#card{
+    width: 600px;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 5px 5px 10px gray;
+}
+#card .typo p{
+    font-size: 18px;
+}
+#card .typo h1{
+    font-size: 35px;
+}
+#card img{
+    
+    object-fit: cover;
+    height: 200px;
+}

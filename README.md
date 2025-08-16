@@ -11,12 +11,12 @@ local time with a neat UI built using **Material UI (MUI)**.
 
 -   🌍 Search weather by **city name**
 -   🌡️ Displays:
-    -   Current temperature\
-    -   Minimum & maximum temperature\
-    -   Humidity\
-    -   Feels like temperature\
-    -   Weather description\
-    -   Local time (converted from UTC & timezone)\
+    -   Current temperature
+    -   Minimum & maximum temperature
+    -   Humidity
+    -   Feels like temperature
+    -   Weather description
+    -   Local time (converted from UTC & timezone)
 -   🎨 Clean UI using **MUI Components**
 -   ⚡ Fast & responsive
 
@@ -34,7 +34,7 @@ local time with a neat UI built using **Material UI (MUI)**.
 
 ## 📸 Screenshot
 
-![Weather App Image](./assets/weather.png)
+![Weather App Image](https://github.com/AbdulMuheetGhouri/Weather-App/blob/main/assets/weather.png?raw=true)
 
 
 ------------------------------------------------------------------------
@@ -63,15 +63,15 @@ npm run dev
 
 ## 🔑 API Key Setup
 
-This project uses **OpenWeather API**.\
-1. Create a free account at [OpenWeather](https://openweathermap.org/).\
-2. Generate your API key.\
+This project uses **OpenWeather API**.
+1. Create a free account at [OpenWeather](https://openweathermap.org/).
+2. Generate your API key.
 3. Add it inside your project (`SearchBox.jsx`)
 ------------------------------------------------------------------------
 
 ## 📂 Folder Structure
 
-    /src
+    src
      ├── components
      │   ├── SearchBox.jsx
      │   ├── Infobox.jsx

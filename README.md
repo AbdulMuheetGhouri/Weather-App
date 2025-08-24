@@ -32,7 +32,7 @@ local time with a neat UI built using **Material UI (MUI)**.
 
 ## 📸 Screenshots
 
-![Weather App Image](https://github.com/AbdulMuheetGhouri/Weather-App/blob/main/assets/weather.png?raw=true)
+![Weather App Image](./assets/Weather.png)
 
 
 ------------------------------------------------------------------------
